@@ -1,0 +1,159 @@
+{
+ "id": "fitter-cts3",
+ "title": "Fitter — CTS 3.0 (NSQF Level 4): learning outcomes",
+ "source": "Fitter_CTS3.0_NSQF — '6. Assessment Criteria', column 'Learning Outcomes' (22 LOs: 1–11 first year, 12–22 second year)",
+ "itis": [
+  {
+   "key": "nedumangad",
+   "name": "Govt. ITI Nedumangad",
+   "short": "ITI Nedumangad",
+   "subtitle": "Thiruvananthapuram, Kerala"
+  }
+ ],
+ "defaultIti": "nedumangad",
+ "trade": {
+  "name": "Fitter",
+  "code": "FITTER",
+  "months": 24
+ },
+ "allLos": true,
+ "publish": false,
+ "batches": [],
+ "defaultBatch": null,
+ "repoTitle": "Fitter — CTS 3.0 learning outcomes",
+ "repoDescription": "Fitter trade (CTS 3.0, NSQF 4): 22 learning outcomes.",
+ "los": [
+  {
+   "number": "1",
+   "title": "Plan and organize the work to make job as per specification applying different types of basic fitting operation and check for dimensional accuracy following safety precautions.",
+   "description": "Basic fitting operation – marking, Hacksawing, Chiselling, Filing, Drilling, Taping and Grinding etc. Accuracy: ± 0.25mm",
+   "year": 1
+  },
+  {
+   "number": "2",
+   "title": "Manufacture simple sheet metal items as per drawing and join them by soldering, brazing and riveting.",
+   "description": "",
+   "year": 1
+  },
+  {
+   "number": "3",
+   "title": "Join metal components by riveting observing standard procedure.",
+   "description": "",
+   "year": 1
+  },
+  {
+   "number": "4",
+   "title": "Join metal component by arc welding observing standard procedure.",
+   "description": "",
+   "year": 1
+  },
+  {
+   "number": "5",
+   "title": "Cut and join metal component by gas (oxyacetylene / LPG / oxy-hydrogen).",
+   "description": "",
+   "year": 1
+  },
+  {
+   "number": "6",
+   "title": "Produce components by different operations and check accuracy using appropriate measuring instruments.",
+   "description": "Different Operations - Drilling, Reaming, Taping, Dieing; Appropriate Measuring Instrument – Vernier, Screw Gauge, Micrometer",
+   "year": 1
+  },
+  {
+   "number": "7",
+   "title": "Make different fit of components for assembling as per required tolerance observing principle of interchangeability and check for functionality.",
+   "description": "Different Fit – Sliding, Angular, Step fit, ‘T’ fit, Square fit and Profile fit; Required tolerance: ±0.04 mm, angular tolerance: 30 min.",
+   "year": 1
+  },
+  {
+   "number": "8",
+   "title": "Produce components involving different operations on lathe observing standard procedure and check for accuracy.",
+   "description": "Different Operations – facing, plain turning, step turning, parting, chamfering, shoulder turn, grooving, knurling, boring, taper turning, threading (external ‘V’ only)",
+   "year": 1
+  },
+  {
+   "number": "9",
+   "title": "Plan & perform simple repair, overhauling of different machines and check for functionality.",
+   "description": "Different Machines – Drill Machine, Power Saw, Bench Grinder and Lathe",
+   "year": 1
+  },
+  {
+   "number": "10",
+   "title": "Read and apply engineering drawing for different application in the field of work.",
+   "description": "",
+   "year": 1
+  },
+  {
+   "number": "11",
+   "title": "Demonstrate basic mathematical concept and principles to perform practical operations. Understand and explain basic science in the field of study.",
+   "description": "",
+   "year": 1
+  },
+  {
+   "number": "12",
+   "title": "Perform surface finishing operations using different fastening components, tools and check functionality.",
+   "description": "Different fastening components – Dowel pins, screws, bolts, keys and cotters; Different fastening tools – hand operated & power tools; Required tolerance: ±0.02mm, angular tolerance ± 10 min.",
+   "year": 2
+  },
+  {
+   "number": "13",
+   "title": "Make & assemble components of different mating surfaces as per required tolerance.",
+   "description": "Different Mating Surfaces – Dovetail fitting, Radius fitting, Combined fitting; Different surface finishing operations – Scraping, Lapping and Honing",
+   "year": 2
+  },
+  {
+   "number": "14",
+   "title": "Make different gauges by using standard tools & equipment and checks for specified accuracy.",
+   "description": "Different Gauges – Snap gauge, Gap gauge; Specified Accuracy: ±0.02mm",
+   "year": 2
+  },
+  {
+   "number": "15",
+   "title": "Apply a range of skills to execute pipe joints, dismantle and assemble valves & fittings with pipes and test for leakages.",
+   "description": "Range of skills – Cutting, Threading, Flaring, Bending and Joining",
+   "year": 2
+  },
+  {
+   "number": "16",
+   "title": "Make drill jig & produce components on drill machine by using jigs and check for correctness.",
+   "description": "",
+   "year": 2
+  },
+  {
+   "number": "17",
+   "title": "Plan, dismantle, repair and assemble different damaged mechanical components used for power transmission & check functionality.",
+   "description": "Different Damaged Mechanical Components – Pulley, Gear, Keys, Jibs and Shafts",
+   "year": 2
+  },
+  {
+   "number": "18",
+   "title": "Identify, dismantle, replace and assemble different pneumatics and hydraulics components.",
+   "description": "Different components – Compressor, Pressure Gauge, Filter Regulator Lubricator, Valves and Actuators",
+   "year": 2
+  },
+  {
+   "number": "19",
+   "title": "Construct circuit of pneumatics and hydraulics observing standard operating procedure & safety aspect.",
+   "description": "",
+   "year": 2
+  },
+  {
+   "number": "20",
+   "title": "Plan & perform basic day to day preventive maintenance, repairing and check functionality.",
+   "description": "Simple Machines – Drill Machine, Power Saw and Lathe",
+   "year": 2
+  },
+  {
+   "number": "21",
+   "title": "Plan, erect simple machine and test machine tool accuracy.",
+   "description": "Simple Machines – Drill Machine, Power Saw and Lathe",
+   "year": 2
+  },
+  {
+   "number": "22",
+   "title": "Read and apply engineering drawing for different application in the field of work.",
+   "description": "",
+   "year": 2
+  }
+ ]
+}

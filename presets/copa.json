@@ -1,0 +1,125 @@
+{
+ "id": "copa",
+ "title": "COPA — original logbook",
+ "itis": [
+  {
+   "key": "dhanuvachapuram",
+   "name": "Govt. International ITI Dhanuvachapuram",
+   "short": "ITI Dhanuvachapuram",
+   "subtitle": "Thiruvananthapuram, Kerala"
+  },
+  {
+   "key": "nedumangad",
+   "name": "Govt. ITI Nedumangad",
+   "short": "ITI Nedumangad",
+   "subtitle": "Thiruvananthapuram, Kerala"
+  }
+ ],
+ "defaultIti": "dhanuvachapuram",
+ "trade": {
+  "name": "Computer Operator and Programming Assistant",
+  "code": "COPA",
+  "months": 12
+ },
+ "allLos": false,
+ "publish": true,
+ "batches": [
+  {
+   "id": "A",
+   "name": "COPA A Batch"
+  },
+  {
+   "id": "B",
+   "name": "COPA B Batch"
+  }
+ ],
+ "defaultBatch": "B",
+ "repoTitle": "COPA — complete syllabus (all learning outcomes)",
+ "repoDescription": "Computer Operator and Programming Assistant: learning outcomes with practical jobs, logbook tasks and theory lesson notes. Migrated from the original COPA digital logbook.",
+ "los": [
+  {
+   "number": "1",
+   "title": "Install and setup operating system and related software in a computer following safety precautions.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "2",
+   "title": "Create, format and edit document using word processing application software.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "3",
+   "title": "Create and customize slides for presentation.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "4",
+   "title": "Create, format, edit and develop a workbook by using spreadsheet application software.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "5",
+   "title": "Create workbooks with advanced formulae, macros, charts, pivot tables and demonstrate ability to use Power tools.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "6",
+   "title": "Create and manage database file using MySQL.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "7",
+   "title": "Install, setup/configure, troubleshoot and secure computer network including Internet.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "8",
+   "title": "Develop web pages using HTML and CSS.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "9",
+   "title": "Develop web pages using Java Script.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "10",
+   "title": "Browse, select and transact using E-commerce websites.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "11",
+   "title": "Explain Cloud concepts & services and Describe Application Development Life Cycle.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "12",
+   "title": "Secure information from Internet by using cyber security concept.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "13",
+   "title": "Demonstrate AI Integration with different applications.",
+   "description": "",
+   "year": null
+  },
+  {
+   "number": "14",
+   "title": "Write programs using Python language.",
+   "description": "",
+   "year": null
+  }
+ ]
+}
